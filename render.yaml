@@ -1,0 +1,33 @@
+services:
+  # Backend Spring Boot API
+  - type: web
+    name: agentguardian-api
+    env: docker
+    rootDir: agentguardian-api
+    healthCheckPath: /actuator/health
+    envVars:
+      - key: PORT
+        value: 8080
+      - key: SPRING_PROFILES_ACTIVE
+        value: prod
+      - key: SPRING_DATASOURCE_URL
+        value: jdbc:h2:file:./data/agentguardian # Switch to PostgreSQL URL if using an external DB
+      - key: SPRING_DATASOURCE_USERNAME
+        value: sa
+      - key: SPRING_DATASOURCE_PASSWORD
+        value: ""
+      - key: JWT_SECRET
+        generateValue: true
+      - key: FRONTEND_URL
+        value: https://agentguardian-frontend.onrender.com # Update this after frontend creates if custom domain
+
+  # Frontend React SPA
+  - type: web
+    name: agentguardian-frontend
+    env: static
+    rootDir: agentguardian-ui
+    buildCommand: npm install && npm run build
+    staticPublishPath: dist
+    envVars:
+      - key: VITE_API_BASE_URL
+        value: https://agentguardian-api.onrender.com/api # Assuming api is hosted here

@@ -1,0 +1,4 @@
+URL to investigate:
+http://secure-login.chase-bank-update-alert.com/auth/verify?token=8f9a2b
+
+Note from user: I received this link via SMS claiming my account is locked.
