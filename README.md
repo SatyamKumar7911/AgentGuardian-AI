@@ -9,6 +9,29 @@
 [![Backend API](https://img.shields.io/badge/Live%20API-Backend-blueviolet?style=for-the-badge&logo=spring&logoColor=white)](https://agentguardian-ai.onrender.com)
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Frontend-cyan?style=for-the-badge&logo=render&logoColor=white)](https://agentguardian-ui.onrender.com)
+[![Backend API](https://img.shields.io/badge/Live%20API-Backend-blueviolet?style=for-the-badge&logo=spring&logoColor=white)](https://agentguardian-ai.onrender.com)
+[![Java](https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](#)
+[![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
+[![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](#)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)](#)
+[![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
+[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](#)
+[![License](https://img.shields.io/github/license/SatyamKumar7911/AgentGuardian-AI?style=for-the-badge)](LICENSE)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/SatyamKumar7911/AgentGuardian-AI/main.yml?style=for-the-badge)](https://github.com/SatyamKumar7911/AgentGuardian-AI/actions)
+[![Contributors](https://img.shields.io/github/contributors/SatyamKumar7911/AgentGuardian-AI?style=for-the-badge)](https://github.com/SatyamKumar7911/AgentGuardian-AI/graphs/contributors)
+[![Stars](https://img.shields.io/github/stars/SatyamKumar7911/AgentGuardian-AI?style=for-the-badge)](https://github.com/SatyamKumar7911/AgentGuardian-AI/stargazers)
+
+
+
+
 **[🔗 Open Live Web Application](https://agentguardian-ui.onrender.com)** | **[🔗 Read Live Backend API Health](https://agentguardian-ai.onrender.com/actuator/health)**
 
 ---
