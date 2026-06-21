@@ -7,7 +7,6 @@
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Frontend-cyan?style=for-the-badge&logo=render&logoColor=white)](https://agentguardian-ui.onrender.com)
 [![Backend API](https://img.shields.io/badge/Live%20API-Backend-blueviolet?style=for-the-badge&logo=spring&logoColor=white)](https://agentguardian-ai.onrender.com)
-[![Microsoft Agents League](https://img.shields.io/badge/Hackathon-Microsoft%20Agents%20League%202026-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](#)
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 **[🔗 Open Live Web Application](https://agentguardian-ui.onrender.com)** | **[🔗 Read Live Backend API Health](https://agentguardian-ai.onrender.com/actuator/health)**
@@ -230,12 +229,6 @@ All core routes (except auth) require a header: `Authorization: Bearer <JWT_TOKE
 | `GET` | `/api/evidence` | Fetch all historical evidence items | `[Evidence, ...]` |
 
 ---
-
-## 🏆 Hackathon Submission
-
-* **Hackathon:** Microsoft Agents League 2026
-* **Track:** Reasoning Agents
-* **Core Technologies:** Microsoft Foundry IQ, Azure OpenAI, Spring Boot, React, TypeScript
 
 ### Why AgentGuardian AI Stands Out:
 * **Real-World Impact:** Attacks a growing multi-billion dollar social engineering threat.
