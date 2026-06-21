@@ -7,7 +7,6 @@
 
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Frontend-cyan?style=for-the-badge&logo=render&logoColor=white)](https://agentguardian-ui.onrender.com)
-[![Backend API](https://img.shields.io/badge/Live%20API-Backend-blueviolet?style=for-the-badge&logo=spring&logoColor=white)](https://agentguardian-ai.onrender.com)
 [![Java](https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](#)
