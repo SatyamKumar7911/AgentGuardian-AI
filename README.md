@@ -21,6 +21,21 @@
 [![Contributors](https://img.shields.io/github/contributors/SatyamKumar7911/AgentGuardian-AI?style=for-the-badge)](https://github.com/SatyamKumar7911/AgentGuardian-AI/graphs/contributors)
 
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Frontend-cyan?style=flat-square&logo=render&logoColor=white)](https://agentguardian-ui.onrender.com)
+[![Java](https://img.shields.io/badge/Java-17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?style=flat-square&logo=springboot&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](#)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](#)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](#)
+[![H2 Database](https://img.shields.io/badge/H2_Database-0E83CD?style=flat-square)](#)
+[![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](#)
+[![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)](#)
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![Contributors](https://img.shields.io/github/contributors/SatyamKumar7911/AgentGuardian-AI?style=flat-square)](https://github.com/SatyamKumar7911/AgentGuardian-AI/graphs/contributors)
+
+
 
 
 
