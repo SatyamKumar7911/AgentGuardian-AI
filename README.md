@@ -5,10 +5,6 @@
 **Autonomous, AI-Powered Fraud Investigation Platform**  
 *Grounding conversational AI in live threat intelligence via Microsoft Foundry IQ & Azure OpenAI.*
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Frontend-cyan?style=for-the-badge&logo=render&logoColor=white)](https://agentguardian-ui.onrender.com)
-[![Backend API](https://img.shields.io/badge/Live%20API-Backend-blueviolet?style=for-the-badge&logo=spring&logoColor=white)](https://agentguardian-ai.onrender.com)
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Frontend-cyan?style=for-the-badge&logo=render&logoColor=white)](https://agentguardian-ui.onrender.com)
 [![Backend API](https://img.shields.io/badge/Live%20API-Backend-blueviolet?style=for-the-badge&logo=spring&logoColor=white)](https://agentguardian-ai.onrender.com)
@@ -22,9 +18,9 @@
 [![H2 Database](https://img.shields.io/badge/H2%20Database-0E83CD?style=for-the-badge)](#)
 [![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
 [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](#)
-[![License](https://img.shields.io/github/license/SatyamKumar7911/AgentGuardian-AI?style=for-the-badge)](LICENSE)
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Contributors](https://img.shields.io/github/contributors/SatyamKumar7911/AgentGuardian-AI?style=for-the-badge)](https://github.com/SatyamKumar7911/AgentGuardian-AI/graphs/contributors)
-[![Stars](https://img.shields.io/github/stars/SatyamKumar7911/AgentGuardian-AI?style=for-the-badge)](https://github.com/SatyamKumar7911/AgentGuardian-AI/stargazers)
+
 
 
 
