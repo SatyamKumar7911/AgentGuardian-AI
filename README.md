@@ -6,20 +6,6 @@
 *Grounding conversational AI in live threat intelligence via Microsoft Foundry IQ & Azure OpenAI.*
 
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Frontend-cyan?style=for-the-badge&logo=render&logoColor=white)](https://agentguardian-ui.onrender.com)
-[![Java](https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](#)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](#)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)](#)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](#)
-[![H2 Database](https://img.shields.io/badge/H2%20Database-0E83CD?style=for-the-badge)](#)
-[![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
-[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](#)
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Contributors](https://img.shields.io/github/contributors/SatyamKumar7911/AgentGuardian-AI?style=for-the-badge)](https://github.com/SatyamKumar7911/AgentGuardian-AI/graphs/contributors)
-
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Frontend-cyan?style=flat-square&logo=render&logoColor=white)](https://agentguardian-ui.onrender.com)
 [![Java](https://img.shields.io/badge/Java-17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](#)
@@ -34,7 +20,6 @@
 [![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)](#)
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![Contributors](https://img.shields.io/github/contributors/SatyamKumar7911/AgentGuardian-AI?style=flat-square)](https://github.com/SatyamKumar7911/AgentGuardian-AI/graphs/contributors)
-
 
 
 
